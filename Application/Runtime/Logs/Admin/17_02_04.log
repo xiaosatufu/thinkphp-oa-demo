@@ -1,0 +1,913 @@
+[ 2017-02-04T08:53:00+08:00 ] 127.0.0.1 /Admin/test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001324s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2017-02-04T08:53:03+08:00 ] 127.0.0.1 /Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-02-04T08:53:08+08:00 ] 127.0.0.1 /Admin/public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-02-04T09:04:44+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001762s ]
+
+[ 2017-02-04T09:04:58+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001890s ]
+
+[ 2017-02-04T09:05:00+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001707s ]
+
+[ 2017-02-04T09:06:46+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001781s ]
+
+[ 2017-02-04T09:06:47+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001526s ]
+
+[ 2017-02-04T09:06:47+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001628s ]
+
+[ 2017-02-04T09:06:47+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001736s ]
+
+[ 2017-02-04T09:06:56+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003800s ]
+
+[ 2017-02-04T09:06:56+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001575s ]
+
+[ 2017-02-04T09:06:57+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001693s ]
+
+[ 2017-02-04T09:06:57+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001905s ]
+
+[ 2017-02-04T09:06:57+08:00 ] 127.0.0.1 /Admin/Dept/shilihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001636s ]
+
+[ 2017-02-04T09:22:16+08:00 ] 127.0.0.1 /Admin/Dept/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0010s ]
+SQL: INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','1','这是人事部') [ RunTime:0.0180s ]
+
+[ 2017-02-04T09:22:22+08:00 ] 127.0.0.1 /Admin/Dept/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0009s ]
+SQL: INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','1','这是人事部') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-02-04T09:24:56+08:00 ] 127.0.0.1 /Admin/Dept/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0011s ]
+SQL: INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','1','财务部') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2017-02-04T09:45:59+08:00 ] 127.0.0.1 /Admin/Dept/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0014s ]
+SQL: UPDATE `sp_dept` SET `sort`='22',`remark`='今天发工资' WHERE `id` = 2 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001432s ]
+
+[ 2017-02-04T09:46:04+08:00 ] 127.0.0.1 /Admin/Dept/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-02-04T09:57:46+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2017-02-04T09:57:56+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001830s ]
+
+[ 2017-02-04T09:58:50+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001419s ]
+
+[ 2017-02-04T09:58:50+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004914s ]
+
+[ 2017-02-04T09:58:51+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-02-04T09:59:32+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001283s ]
+
+[ 2017-02-04T10:00:29+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-02-04T10:00:47+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001081s ]
+
+[ 2017-02-04T10:00:48+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2017-02-04T10:00:51+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2017-02-04T10:00:56+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2017-02-04T10:00:59+08:00 ] 127.0.0.1 /Admin/Dept/chaxun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_dept`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 2  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` IN ('1','2')  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_dept` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `sp_dept` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2017-02-04T10:08:22+08:00 ] 127.0.0.1 /Admin/Dept/shanchu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+SQL: SHOW COLUMNS FROM `sp_dept` [ RunTime:0.0015s ]
+SQL: DELETE FROM `sp_dept` WHERE `id` = 1 [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002431s ]
+
+[ 2017-02-04T14:10:14+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`pid`,`sort`,`remark`) VALUES ('0','10','技术部门')
+
+[ 2017-02-04T14:13:45+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','10','技术部门')
+
+[ 2017-02-04T14:14:12+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','10','技术部门')
+
+[ 2017-02-04T14:14:27+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('0','0','1','财务部')
+
+[ 2017-02-04T14:14:58+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:14:59+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:14:59+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:14:59+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:00+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:00+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:00+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:00+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:19+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:15:22+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:16:09+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:16:10+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:16:10+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:16:10+08:00 ] 127.0.0.1 /Admin/dept/tianjia
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('财务部','0','1','财务部')
+
+[ 2017-02-04T14:16:11+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T14:16:11+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T14:16:11+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T14:16:12+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T14:16:12+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T14:16:12+08:00 ] 127.0.0.1 /Admin/test/test19
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('技术部','0','10','技术部门')
+
+[ 2017-02-04T16:11:33+08:00 ] 127.0.0.1 /Admin/Index/index
+ERR: 模板不存在:./Application/Admin/View/Index/index.html
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/css/index.css
+ERR: 非法操作:css
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/css/base.css
+ERR: 非法操作:css
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/css/jquery.dialog.css
+ERR: 非法操作:css
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/core.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.dialog.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/core.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.dialog.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:12:17+08:00 ] 127.0.0.1 /Admin/Index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:14:19+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:14:52+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:14:59+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:14:59+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:15:47+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:15:47+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:16:58+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:17:01+08:00 ] 127.0.0.1 /Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-02-04T16:18:09+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:18:09+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:18:09+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:18:57+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2017-02-04T16:21:34+08:00 ] 127.0.0.1 /Admin/index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:21:34+08:00 ] 127.0.0.1 /Admin/index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:22:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:22:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:22:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:22:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:22:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:24:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:25:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:25:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:25:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:25:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:26:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:27:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:27:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:27:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:27:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:29:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:29:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-04T16:29:58+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 非法操作:add
+
+[ 2017-02-04T16:29:59+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-04T16:29:59+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 非法操作:add
+
+[ 2017-02-04T16:30:00+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-04T16:30:00+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 非法操作:add
+
+[ 2017-02-04T16:30:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:30:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:30:30+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 模板不存在:./Application/Admin/View/Dept/showList.html
+
+[ 2017-02-04T16:31:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:31:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:31:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:31:49+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 非法操作:add
+
+[ 2017-02-04T16:33:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T16:33:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:04:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:04:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:04:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:04:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:08:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:08:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:01+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:01+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:01+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:10:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:11:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:11:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:18:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:18:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:22:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:22:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:49:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T17:49:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-04T18:01:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

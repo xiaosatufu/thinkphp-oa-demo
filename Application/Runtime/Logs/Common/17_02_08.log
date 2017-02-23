@@ -1,0 +1,15 @@
+[ 2017-02-08T09:52:47+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-08T14:36:26+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-08T15:36:18+08:00 ] 127.0.0.1 /index.php/public/login
+ERR: 无法加载模块:Public
+
+[ 2017-02-08T15:36:23+08:00 ] 127.0.0.1 /index.php/public/login
+ERR: 无法加载模块:Public
+
+[ 2017-02-08T15:36:35+08:00 ] 127.0.0.1 /index.php/Public/login
+ERR: 无法加载模块:Public
+

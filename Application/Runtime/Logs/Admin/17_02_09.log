@@ -1,0 +1,133 @@
+[ 2017-02-09T13:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:49:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:49:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:49:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:49:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:51:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:51:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:56:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T13:56:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T14:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/17
+ERR: 模板不存在:./Application/Admin/View/Dept/edit.html
+
+[ 2017-02-09T14:45:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T14:45:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T14:45:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T15:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T15:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T15:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T15:38:24+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:24+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:25+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:25+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:26+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:26+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T15:38:26+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2017-02-09T16:08:51+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-09T16:08:51+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 模板不存在:./Application/Admin/View/User/add.html
+
+[ 2017-02-09T16:08:53+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-09T16:08:53+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 模板不存在:./Application/Admin/View/User/add.html
+
+[ 2017-02-09T16:08:55+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-09T16:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T16:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T16:09:04+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 模板不存在:./Application/Admin/View/User/add.html
+
+[ 2017-02-09T16:09:04+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 模板不存在:./Application/Admin/View/User/showList.html
+
+[ 2017-02-09T16:52:44+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: Think\Model:filed方法不存在！
+
+[ 2017-02-09T17:05:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T17:05:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-09T17:05:38+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 模板不存在:./Application/Admin/View/User/showList.html
+
+[ 2017-02-09T17:19:53+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 1292:Incorrect date value: '' for column 'birthday' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_user` (`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('11','111','1112','22','-1','男','','','',' ','1486631993')
+
+[ 2017-02-09T17:20:15+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 模板不存在:./Application/Admin/View/User/showList.html
+
+[ 2017-02-09T17:40:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-09T17:40:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

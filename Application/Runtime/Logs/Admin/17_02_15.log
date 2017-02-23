@@ -1,0 +1,36 @@
+[ 2017-02-15T09:49:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-15T09:49:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-15T11:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-15T11:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-15T14:55:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-15T14:55:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-15T15:47:23+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showContent/id/11
+ERR: 非法操作:showContent
+
+[ 2017-02-15T16:27:29+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/11
+ERR: 非法操作:edit
+
+[ 2017-02-15T16:27:35+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/11
+ERR: 非法操作:edit
+
+[ 2017-02-15T16:28:53+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/11
+ERR: 模板不存在:./Application/Admin/View/Doc/edit.html
+
+[ 2017-02-15T16:30:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-15T16:30:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

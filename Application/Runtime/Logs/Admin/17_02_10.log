@@ -1,0 +1,161 @@
+[ 2017-02-10T10:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T10:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T10:02:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T10:02:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T11:37:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T11:37:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T14:46:41+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 模板不存在:./Application/Admin/View/User/charts.html
+
+[ 2017-02-10T14:49:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T14:49:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T16:15:01+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY deptname' at line 1
+ [ SQL语句 ] : SELECT t2.name as deptname,count(*) FROM sp_user as t1,sp_dept as t2 WHERE ( t1.dept_id = t2.id ) GROUP BY GROUP BY deptname 
+
+[ 2017-02-10T16:15:32+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY deptname' at line 1
+ [ SQL语句 ] : SELECT t2.name as deptname,count(*) FROM sp_user as t1,sp_dept as t2 WHERE ( t1.dept_id = t2.id ) GROUP BY GROUP BY deptname 
+
+[ 2017-02-10T16:15:32+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY deptname' at line 1
+ [ SQL语句 ] : SELECT t2.name as deptname,count(*) FROM sp_user as t1,sp_dept as t2 WHERE ( t1.dept_id = t2.id ) GROUP BY GROUP BY deptname 
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY deptname' at line 1
+ [ SQL语句 ] : SELECT t2.name as deptname,count(*) FROM sp_user as t1,sp_dept as t2 WHERE ( t1.dept_id = t2.id ) GROUP BY GROUP BY deptname 
+
+[ 2017-02-10T16:31:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T16:31:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T16:31:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:13:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:13:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:15:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:15:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:15:05+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:06+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:07+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:07+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:07+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:09+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:09+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:15:09+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2017-02-10T17:15:09+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 非法操作:add
+
+[ 2017-02-10T17:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:19:20+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:19:21+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 模板不存在:./Application/Admin/View/Doc/add.html
+
+[ 2017-02-10T17:32:20+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:48:38+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 1364:Field 'author' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_doc` (`title`,`content`,`addtime`) VALUES ('',' ','1486720118')
+
+[ 2017-02-10T17:48:49+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:48:54+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 1364:Field 'author' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_doc` (`title`,`content`,`addtime`) VALUES ('123',' 123','1486720134')
+
+[ 2017-02-10T17:49:38+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 1364:Field 'author' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_doc` (`title`,`content`,`addtime`) VALUES ('123',' 123','1486720178')
+
+[ 2017-02-10T17:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 1364:Field 'author' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_doc` (`title`,`content`,`addtime`) VALUES ('123',' 123','1486720211')
+
+[ 2017-02-10T17:51:35+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:51:43+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:55:59+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:./Application/Admin/View/Doc/showList.html
+
+[ 2017-02-10T17:57:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:57:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:57:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2017-02-10T17:58:12+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/2
+ERR: 非法操作:edit
+

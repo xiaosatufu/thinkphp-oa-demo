@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+<script src="http://www.cdhuaying.com/js/jquery.min.js"></script>
+<script>
+$.$.ajax({
+    url: '/path/to/file',
+    type: 'default GET (Other values: POST)',
+    dataType: 'default: Intelligent Guess (Other values: xml, json, script, or html)',
+    data: {param1: 'value1'},
+})
+.done(function() {
+    console.log("success");
+})
+.fail(function() {
+    console.log("error");
+})
+.always(function() {
+    console.log("complete");
+});
+
+</script>
+</html>
